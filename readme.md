@@ -6,6 +6,9 @@ It is designed to run on a **connected build machine** and produce a **self-cont
 
 ---
 
+<img width="993" height="910" alt="image" src="https://github.com/user-attachments/assets/36014077-f985-4e30-b60c-0c01ada9f923" />
+
+
 ## What This Tool Does
 
 On the **build machine**, it can:
@@ -31,6 +34,7 @@ start_webui.sh
 - Start Open WebUI and Ollama locally
 - Navitage to localhost:8080 in a web browser.
 
+<img width="1379" height="784" alt="image" src="https://github.com/user-attachments/assets/d25fe154-cf32-4a4d-afc8-9fd9b318728b" />
 
 
 ---
@@ -42,7 +46,7 @@ start_webui.sh
 - `sudo` access (the tool expects to be run as `root` or via `sudo -s`)
 - Internet connectivity
 - Sufficient disk space:
-  - ~10–15 GB per large model
+  - ~10â€“15 GB per large model
   - ~5 GB for Open WebUI image
   - Additional space for packaging
 
